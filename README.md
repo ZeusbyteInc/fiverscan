@@ -7,7 +7,7 @@
 [![Express](https://img.shields.io/badge/Express-4-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
 [![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 [![Sequelize](https://img.shields.io/badge/Sequelize-ORM-52B0E7?style=for-the-badge)](https://sequelize.org)
-[![Socket.IO](https://img.shields.io/badge/Socket.IO-realtime-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io)
+[![Socket.IO](https://img.shields.io/badge/Socket.IO-WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://socket.io)
 [![License: MIT](https://img.shields.io/badge/license-MIT-8B8B8B?style=for-the-badge)](LICENSE)
 
 <p align="center"><img src="fiverscan.png" alt="FiversCan" width="160"></p>
