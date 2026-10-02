@@ -1,7 +1,6 @@
 # FiversCan
 
 [![build](https://img.shields.io/github/actions/workflow/status/ZeusbyteInc/fiverscan/build.yml?style=for-the-badge)](https://github.com/ZeusbyteInc/fiverscan/actions/workflows/build.yml)
-[![written by humans](https://img.shields.io/badge/written_by_humans-not_ai-blue?style=for-the-badge)](https://github.com/ZeusbyteInc/fiverscan/commits/main/)
 
 [![Node.js](https://img.shields.io/badge/Node.js-16%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![Express](https://img.shields.io/badge/Express-4-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
