@@ -16,6 +16,8 @@
 
 This is the official repository. FiversCan is a Node.js control panel that connects operators and agents to 26+ slots and live-casino providers: real-time balance and transaction tracking for agents and players, provider spend accounting across currencies, and a game catalog that stays synchronized with every provider's latest releases.
 
+Part of the OSS Casino ecosystem — the main platform lives at **[ZeusbyteInc/goldsvet](https://github.com/ZeusbyteInc/goldsvet)**.
+
 | | |
 | --- | --- |
 | **Runtime** | Node.js 16+ · Express 4 · PM2 |
