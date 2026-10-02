@@ -52,7 +52,6 @@ This repository contains the panel source code. The complete distribution — in
 - `utils/` — Winston logger with daily rotation, request helpers, constants
 - `lang/` — localization catalogs (English, Korean)
 - `public/` — panel front-end assets
-- `scripts/update.sql` — database maintenance, applied automatically at startup
 
 ---
 
