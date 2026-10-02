@@ -1,0 +1,29 @@
+name: build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Syntax-check JavaScript
+        run: |
+          find . -name "*.js" -not -path "./node_modules/*" -not -path "./public/assets/*" -print0 |
+            xargs -0 -n1 node --check
+
+      - name: Validate JSON files
+        run: |
+          for f in package.json lang/en.json lang/ko.json; do
+            node -e "JSON.parse(require('fs').readFileSync('$f', 'utf8'))"
+          done
