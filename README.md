@@ -25,6 +25,7 @@ Part of the OSS Casino ecosystem — the main platform lives at **[ZeusbyteInc/g
 | **Realtime** | Socket.IO |
 | **Providers** | 26+ slots and live-casino integrations |
 | **Languages** | English · Korean |
+| **Website** | [zeusbyteinc.com](https://zeusbyteinc.com) |
 | **Channel** | [t.me/goldsvet1](https://t.me/goldsvet1) |
 
 ---
@@ -135,6 +136,7 @@ The panel authenticates operators and agents, manages players and provider integ
 The fastest way to get in touch is directly with the developer — for the full distribution, provider integrations, or installation on your own server:
 
 - **Developer: [t.me/chessmate77](https://t.me/chessmate77)** — fastest response, sales, and installation
+- Website: [zeusbyteinc.com](https://zeusbyteinc.com)
 - Channel: [t.me/goldsvet1](https://t.me/goldsvet1)
 - Group: [t.me/osscasino](https://t.me/osscasino)
 
